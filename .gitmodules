@@ -1,0 +1,9 @@
+[submodule "extern/eigen/eigen"]
+	path = extern/eigen/eigen
+	url = https://github.com/eigenteam/eigen-git-mirror.git
+[submodule "extern/libigl/libigl"]
+	path = extern/libigl/libigl
+	url = https://github.com/libigl/libigl.git
+[submodule "extern/spectra/spectra"]
+	path = extern/spectra/spectra
+	url = https://github.com/yixuan/spectra.git
